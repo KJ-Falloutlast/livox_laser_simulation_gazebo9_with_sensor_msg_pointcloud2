@@ -1,7 +1,7 @@
 # Introduction
 
 * 解决livox系列雷达在gazebo9仿真环境中无法输出sensor_msgs::PointCloud2和livox_ros_driver/CustomMsg点云问题
-* 修复https://github.com/lvfengchi/livox_laser_simulation代码中gazebo7和9无法适配问题
+* 修复`https://github.com/lvfengchi/livox_laser_simulation`代码中gazebo7和9无法适配问题
 
 # Install
 
